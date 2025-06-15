@@ -1,3 +1,3 @@
-pip install tinydb
-pip install requests
-pip install pyserial
+## pip install tinydb
+## pip install requests
+## pip install pyserial
